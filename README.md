@@ -46,4 +46,4 @@ This project is provided under the [Your License Name] License - see the [LICENS
 
 ## Contact
 
-For questions or feedback regarding this README or the Central Limit Theorem, please contact *Riyad* at *riyadehmedov03@gmail.com*.
+For questions or feedback regarding this README or the DBScan, please contact *Riyad* at *riyadehmedov03@gmail.com*.
