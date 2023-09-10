@@ -40,10 +40,6 @@ To use DBSCAN for clustering, follow these steps:
 ## Further Reading
 For a deeper understanding of DBSCAN and its practical applications, consider exploring additional resources such as research papers, tutorials, and documentation on clustering algorithms.
 
-## License
-
-This project is provided under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or feedback regarding this README or the DBScan, please contact *Riyad* at *riyadehmedov03@gmail.com*.
